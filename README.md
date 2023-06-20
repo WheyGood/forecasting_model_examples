@@ -8,5 +8,6 @@
 
 
 #### TBATS
-- 
+- Predicting five weeks of store footfall data from two years of weekly average per day footfall data with TBATS
+- [Footfall Prediction Project](https://github.com/WheyGood/forecasting_model_examples/blob/main/Store_Footfall_Forecast_TBATS.ipynb)
 
